@@ -6,6 +6,7 @@ export class NavBar extends Component {
     render() {
         return (
             <div>
+      {/* took navbar from the bootstrap and modified it */}
                 <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
                     <div className="container-fluid">
                         <Link className="navbar-brand" to="/">NewsPulse</Link>
