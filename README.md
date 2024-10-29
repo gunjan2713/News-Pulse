@@ -11,26 +11,33 @@ Students often find it challenging to read through entire newspapers to gather r
 - **Read More Option:** Users can read the full article by clicking "Read More."
 - **Article Details:** View the author and publication date of each article.
 - **User-Friendly Interface:** Simple and intuitive design for easy navigation and reading.
-- 
+  
 ## API Integration: 
 Used News Api to fetch the news headlines. https://newsapi.org/
 
 ## Bootstrap
 This project utilizes [Bootstrap](https://getbootstrap.com/) to ensure a responsive and visually appealing design. Bootstrap's grid system and pre-built components facilitate a seamless user experience across various devices. The use of Bootstrap enhances the overall aesthetics of the application while providing easy-to-use styling options for buttons, forms, and navigation.
 
+## References:
+   ChatGpt - Error Fixing
+   
+   https://www.youtube.com/watch?v=MHn66JJH5zs&list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza
+   
+   https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt 
+   
 ## Project Setup
 To set up and run the project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone 
+   git clone https://github.com/gunjan2713/News-Pulse.git
    cd news-pulse
-   
-2. **Install dependencies:** 
-  ```bash
+3. **Install dependencies:**
+   ```bash
    npm install
+2. **Run the application:** 
+  ```bash
+   npm start 
 
-3. **Run the application:**
-   npm start
 
    
